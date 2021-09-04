@@ -1,0 +1,13 @@
+C:\Users\aula\Desktop\Rafael\Calcular masa e altura\Calcular masa e altura\bin\Debug\netcoreapp3.1\Calcular masa e altura.exe
+C:\Users\aula\Desktop\Rafael\Calcular masa e altura\Calcular masa e altura\bin\Debug\netcoreapp3.1\Calcular masa e altura.deps.json
+C:\Users\aula\Desktop\Rafael\Calcular masa e altura\Calcular masa e altura\bin\Debug\netcoreapp3.1\Calcular masa e altura.runtimeconfig.json
+C:\Users\aula\Desktop\Rafael\Calcular masa e altura\Calcular masa e altura\bin\Debug\netcoreapp3.1\Calcular masa e altura.runtimeconfig.dev.json
+C:\Users\aula\Desktop\Rafael\Calcular masa e altura\Calcular masa e altura\bin\Debug\netcoreapp3.1\Calcular masa e altura.dll
+C:\Users\aula\Desktop\Rafael\Calcular masa e altura\Calcular masa e altura\bin\Debug\netcoreapp3.1\Calcular masa e altura.pdb
+C:\Users\aula\Desktop\Rafael\Calcular masa e altura\Calcular masa e altura\obj\Debug\netcoreapp3.1\Calcular masa e altura.csprojAssemblyReference.cache
+C:\Users\aula\Desktop\Rafael\Calcular masa e altura\Calcular masa e altura\obj\Debug\netcoreapp3.1\Calcular masa e altura.AssemblyInfoInputs.cache
+C:\Users\aula\Desktop\Rafael\Calcular masa e altura\Calcular masa e altura\obj\Debug\netcoreapp3.1\Calcular masa e altura.AssemblyInfo.cs
+C:\Users\aula\Desktop\Rafael\Calcular masa e altura\Calcular masa e altura\obj\Debug\netcoreapp3.1\Calcular masa e altura.csproj.CoreCompileInputs.cache
+C:\Users\aula\Desktop\Rafael\Calcular masa e altura\Calcular masa e altura\obj\Debug\netcoreapp3.1\Calcular masa e altura.dll
+C:\Users\aula\Desktop\Rafael\Calcular masa e altura\Calcular masa e altura\obj\Debug\netcoreapp3.1\Calcular masa e altura.pdb
+C:\Users\aula\Desktop\Rafael\Calcular masa e altura\Calcular masa e altura\obj\Debug\netcoreapp3.1\Calcular masa e altura.genruntimeconfig.cache
